@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CaraOuCoroa</string>
+    <string name="jogar">Jogar</string>
+    <string name="digite_sua_op_o_cara_ou_coroa">Digite sua opção: cara ou coroa</string>
+</resources>
